@@ -18,7 +18,7 @@ This is an end-to-end Machine Learning project that predicts house prices in Bos
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 - **Language:** Python 3.8+
 - **Machine Learning:** Scikit-Learn, Pandas, NumPy
 - **Algorithm:** Linear Regression
@@ -27,7 +27,7 @@ This is an end-to-end Machine Learning project that predicts house prices in Bos
 
 ---
 
-## 🚀 Installation & Setup
+##  Installation & Setup
 
 1. **Clone the repository:**
    ```bash
